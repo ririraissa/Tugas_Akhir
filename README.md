@@ -26,16 +26,19 @@ K-Means clustering of images using Python (.ipynb) to generate RGB coordinate in
 Extraction of grayscale values and RGB values and train it to Neural Networks to classified batik textile's regional origin.
 
 # Other usefull folder
-1. High-resolution images of all 110 batik textile
+1. ESRGAN model
+https://github.com/xinntao/ESRGAN
+
+2. High-resolution images of all 110 batik textile
 https://drive.google.com/drive/u/0/folders/1AwEIlBSvHiiHOBWALd1avAdWiXYlsM1b
 
-2. K - Means Clustering for all Batik Textile's images
+3. K - Means Clustering for all Batik Textile's images
 https://drive.google.com/drive/u/0/folders/18rX9qR-_3-0HR-LxTp9Zk8QTfY2BVvGp
 
-3. Color Wheels for all Batik Textile's images
+4. Color Wheels for all Batik Textile's images
 https://drive.google.com/drive/u/0/folders/1FaeSOfRiXf_7NW1isofSmaplk8xFdLop
 
-4. Data training for model classification from extracted RGB and greyscale coordinate
+5. Data training for model classification from extracted RGB and greyscale coordinate
 https://drive.google.com/drive/u/0/folders/1jgTDJ0uD1pjhebAKrfLwoFgy2Zw4SxJZ
 
 # Conclusion
